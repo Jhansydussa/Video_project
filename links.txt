@@ -1,0 +1,24 @@
+<!-- React -->
+<script src="https://unpkg.com/react@18.2.0/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js"></script>
+
+<!-- React Router DOM -->
+<script src="https://unpkg.com/react-router-dom@6.21.1/umd/react-router-dom.min.js"></script>
+
+<!-- Axios -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"></script>
+
+<!-- Bootstrap (CSS only) -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Bootstrap Icons -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.2/font/bootstrap-icons.min.css" rel="stylesheet">
+
+<!-- Formik -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/formik/2.4.5/formik.umd.min.js"></script>
+
+<!-- MUI (Material-UI) -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/@mui/material/5.15.7/umd/material.min.css" rel="stylesheet">
+
+<!-- Emotion Styled -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/@emotion/styled/11.11.0/umd/styled.min.js"></script>
